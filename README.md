@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الشوق في قلبي تناديك
+> روحي وعيني تسهر تراعيك
+> يا ليل الحب خذني إليها
+> كل النبضات تذوب في يديك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
