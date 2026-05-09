@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sabry Aalil
+
+This log tracks the cryptographic history and versioning for the song **Sabry Aalil** (sabry-aalil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:17:27.126129 | `v1` | `d57627ab9c9057c53cb720dc73fbf01b91ae2fb7f907ccb984f1a7b70f4b724f` | `8acbb47daa569a3ed601327d08573c2b179a211773e5362490b33bba6c081a71` | `2026-05-09_sabry-aalil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
